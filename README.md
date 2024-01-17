@@ -6,7 +6,7 @@
 
 Link para ver resultado: [VENTA VIAJES FINALIZADO](https://venta-viajes-curso-javascript.netlify.app/)
 
-Este es un tutorial que te guiará a través del proceso de creación de una aplicación de venta de viajes utilizando JavaScr La aplicación mostrará información sobre diferentes ciudades turísticas y sus precios asociados.
+Este es un tutorial que te guiará a través del proceso de creación de una aplicación de venta de viajes utilizando JavaScript. La aplicación mostrará información sobre diferentes ciudades turísticas y sus precios asociados.
 
 ## Requisitos previos
 
