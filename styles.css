@@ -24,7 +24,7 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--text-color);
-  background-image: url(assets/img/background-travel.png);
+  background-image: url(assets/img/Travel-Airport.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
