@@ -112,7 +112,7 @@ a {
   color: blue;
 }
 .footer__logo:hover{
-  color: rgb(248, 73, 4);
+  color: #12fd3a;
 }
 .footer__description {
   color: blue;
@@ -133,20 +133,20 @@ a {
   display: flex;
   flex-direction: column;
   row-gap: .7rem;
-  color: rgb(248, 73, 4);
+  color: #7700ff;
   font-size: 18px;
 }
 .footer__links:hover{
-  color: rgb(188, 255, 4);
+  color: #12fd3a;
 }
 .footer__link,
 .footer__social-link{
-  color: rgb(248, 73, 4);
+  color: #7700ff;
   transition: .3s;
 }
 .footer__link:hover,
 .footer__social-link:hover{
-  color: rgb(188, 255, 4);
+  color: #12fd3a;
 }
 .footer__social-link{
   font-size: 50px;
@@ -159,16 +159,16 @@ a {
   font-size: 17px;
 }
 .footer__copy p {
-color: rgb(248, 73, 4);
+color: #7700ff;
 font-size: 15px;
 }
 .footer__dev-link{
-  color: rgb(248, 73, 4);
+  color: #7700ff;
   font-size: 21px;
 }
 .footer__copy,
 .footer__dev-link:hover{
-  color: rgb(188, 255, 4);
+  color: #12fd3a;
   transition: .3s;
   animation: a 3s infinite; 
 }
@@ -194,7 +194,7 @@ font-size: 15px;
   position: fixed;
   right: 10px;
   bottom: -30%;
-  background-color: rgb(188, 255, 4);
+  background-color: #12fd3a;
   display: inline-flex;
   padding: .35rem;
   border-radius: .5rem;
@@ -212,7 +212,7 @@ font-size: 15px;
 
 .show-scroll{
   bottom: 3rem;
-  color: blue;
+  color: #7700ff;
 }
 
 /*=============== BREAKPOINTS ===============*/
