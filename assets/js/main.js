@@ -15,10 +15,10 @@ const sr = ScrollReveal({
 const d = new Date();
 document.getElementById("date").innerHTML = d;
 
-sr.reveal(`.welcome`, {delay: 100}); 
-sr.reveal(`.card`, {delay: 150}); 
-sr.reveal(`.footer__logo`, {delay: 200}); 
-sr.reveal(`.footer__content`, {interval: 250});
-sr.reveal(`.footer__copy`), {interval: 300};
-sr.reveal(`footer__dev-link`, {interval: 300});
-sr.reveal(`date`, {interval:350}) 
+sr.reveal(`.welcome`, {delay: 5});
+sr.reveal(` .app`, {delay: 150});         
+sr.reveal(`.footer__logo`, {delay: 250}); 
+sr.reveal(`.footer__content`, {interval: 300});
+sr.reveal(`.footer__copy`), {interval: 350};
+sr.reveal(`footer__dev-link`, {interval: 400});
+sr.reveal(`date`, {interval:450}) 
