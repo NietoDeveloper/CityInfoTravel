@@ -24,13 +24,13 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--text-color);
-  background-image: url(assets/img/Travel-Airport-2.webp);
+  background-image: url(assets/img/Travel-Airport-3.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
-h1, h2 {
+h1, h2, a {
   font-weight: var(--font-semi-bold);
 }
 

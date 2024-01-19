@@ -1,10 +1,10 @@
 .welcome {
     text-align: center;
-    color: #781be2;
-    margin-top: 25px;
+    color: #7700ff;
+    margin-top: 10px;
 }
 .welcome h1 {
-    font-size: 40px;
+    font-size: 50px;
 }
     @media screen and (min-width: 620px) {
         .welcome h1 {
@@ -23,79 +23,79 @@
   box-sizing: border-box;
 }
 
-    .Citys {
-        margin-left: 50px;
-        --def: #12fd3a ;
-        --inv: #7700ff;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        height: 60vh;
-        width: 270px;
-        overflow: hidden;
-      }
-      html {
-        font-size: 12px;
-        font-family: "Playfair Display", serif;
-      }
-      div {
-        margin-bottom: 10px;
-      }
-      div:last-child {
-        margin-bottom: 0;
-      }
-      .btn {
-        position: relative;
-        padding: 1.4rem 4.2rem;
-        padding-right: 3.1rem;
-        font-size: 1.4rem;
-        color: var(--inv);
-        letter-spacing: 1.1rem;
-        text-transform: uppercase;
-        transition: all 500ms cubic-bezier(0.77, 0, 0.175, 1);
-        cursor: pointer;
-        user-select: none;
-      }
-      .btn::before,
-      .btn::after {
-        content: "";
-        position: absolute;
-        transition: inherit;
-        z-index: -1;
-      }
-      .btn:hover {
-        color: var(--def);
-        transition-delay: 0.5s;
-      }
-      .btn:hover::before {
-        transition-delay: 0s;
-      }
-      .btn:hover::after {
-        transition-delay: 0.35s;
-        background: var(--inv);
-      }
+.Citys {    
+    --def: #12fd3a ;
+    --inv: #7700ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+    width: 200px;
+    overflow: hidden;
+}
+
+html {
+    font-size: 15px;
+    font-family: "Playfair Display", serif;
+}
+div {
+    margin-bottom: 1px;
+}
+    div:last-child {
+    margin-bottom: 0;
+}
+.btn {
+    position: relative;
+    padding: 1rem 3rem;
+    padding-right: 3rem;
+    font-size: 21px;
+    color: var(--inv);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: all 500ms cubic-bezier(0.77, 0, 0.175, 1);
+    cursor: pointer;
+    user-select: none;
+}
+.btn::before,
+.btn::after {
+    content: "";
+    position: absolute;
+    transition: inherit;
+    z-index: -1;
+}
+.btn:hover {
+    color: var(--def);
+    transition-delay: 0.5s;
+}
+.btn:hover::before {
+    transition-delay: 0s;
+}
+.btn:hover::after {
+    transition-delay: 0.35s;
+    background: var(--inv);
+}
       /* From Top */
-      .from-top::before,
-      .from-top::after {
-        left: 0;
-        height: 0;
-        width: 100%;
-      }
-      .from-top::before {
-        bottom: 0;
-        border: 1px solid var(--inv);
-        border-top: 0;
-        border-bottom: 0;
-      }
-      .from-top::after {
-        top: 0;
-        height: 0;
-      }
-      .from-top:hover::before,
-      .from-top:hover::after {
-        height: 100%;
-      }
+.from-top::before,
+.from-top::after {
+    left: 0;
+    height: 0;
+    width: 100%;
+}
+.from-top::before {
+    bottom: 0;
+    border: 1px solid var(--inv);
+    border-top: 0;
+    border-bottom: 0;
+}
+.from-top::after {
+    top: 0;
+    height: 0;
+}
+.from-top:hover::before,
+.from-top:hover::after {
+    height: 100%;
+}
       /* Form Left */
       .from-left::before,
       .from-left::after {
@@ -153,14 +153,14 @@
         width: 100%;
         background: var(--inv);
       }
-      .from-center:hover::before {
-        left: 0;
-        width: 100%;
-      }
-      .from-center:hover::after {
-        top: 0;
-        height: 100%;
-      }
+.from-center:hover::before {
+    left: 0;
+    width: 100%;
+}
+.from-center:hover::after {
+    top: 0;
+    height: 100%;
+}
     
 
 
