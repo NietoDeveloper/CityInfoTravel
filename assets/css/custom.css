@@ -23,6 +23,11 @@
   box-sizing: border-box;
 }
 
+.app {
+  display: flex;
+  flex-direction: row;
+}
+
 .Citys {    
     --def: #12fd3a ;
     --inv: #7700ff;
@@ -31,12 +36,35 @@
     align-items: center;
     flex-direction: column;
     height: 50vh;
-    width: 200px;
+    width: 30%;
     overflow: hidden;
+    margin-right: 10px;
 }
 
+.contenedor {
+  width: 65%;
+  margin-top: 40px;
+  margin-right: 20px;
+}
+.contenedor h2 {
+  color: #12fd3a;
+  text-align: center;
+  font-size: 40px;
+}
+.contenedor h3 {
+  margin-top: 5px;
+  text-align: center;
+  color: #7700ff;
+  font-size: 28px; 
+  margin-right: 10px;
+}
+.contenedor p {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 600;
+}
 html {
-    font-size: 15px;
+    font-size: 16px;
     font-family: "Playfair Display", serif;
 }
 div {
