@@ -44,7 +44,7 @@
 .contenedor {
   width: 60%;
   margin-top: 40px;
-  margin-right: 20px;
+  margin-right: 10px;
 }
 @media screen and (min-width: 620px) {
   .contenedor {
