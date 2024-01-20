@@ -36,13 +36,13 @@
     align-items: center;
     flex-direction: column;
     height: 60vh;
-    width: 50%;
+    width: 40%;
     overflow: hidden;
     margin-right: 5px;
 }
 
 .contenedor {
-  width: 90%;
+  width: 60%;
   margin-top: 40px;
   margin-right: 20px;
 }
