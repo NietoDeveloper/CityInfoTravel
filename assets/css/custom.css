@@ -35,14 +35,14 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 50vh;
+    height: 60vh;
     width: 40%;
     overflow: hidden;
     margin-right: 5px;
 }
 
 .contenedor {
-  width: 60%;
+  width: 90%;
   margin-top: 40px;
   margin-right: 20px;
 }
