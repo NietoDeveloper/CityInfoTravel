@@ -4,7 +4,7 @@
     margin-top: 50px;
 }
 .welcome h1 {
-    font-size: 50px;
+    font-size: 48px;
 }
     @media screen and (min-width: 620px) {
         .welcome h1 {
@@ -36,13 +36,13 @@
     align-items: center;
     flex-direction: column;
     height: 50vh;
-    width: 30%;
+    width: 40%;
     overflow: hidden;
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 .contenedor {
-  width: 65%;
+  width: 60%;
   margin-top: 40px;
   margin-right: 20px;
 }
