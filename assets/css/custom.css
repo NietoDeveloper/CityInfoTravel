@@ -46,6 +46,12 @@
   margin-top: 40px;
   margin-right: 20px;
 }
+@media screen and (min-width: 620px) {
+  .contenedor {
+    margin-right: 50px;
+  
+  }
+}
 .contenedor h2 {
   color: #12fd3a;
   text-align: center;
