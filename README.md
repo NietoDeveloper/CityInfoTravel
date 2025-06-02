@@ -48,6 +48,3 @@ La función `obtenerContenido` toma el texto del enlace como parámetro y devuel
 
 Puedes personalizar el contenido de las ciudades modificando el archivo `ciudades.js`. Cada ciudad es representada por un objeto con propiedades como `titulo`, `subtitulo`, `parrafo` y `precio`.
 
-## Conclusiones
-
-Con este tutorial, has aprendido a crear una aplicación de venta de viajes utilizando JavaScript. Ahora puedes personalizar el contenido y expandir la funcionalidad de la aplicación según tus necesidades. ¡Diviértete programando!
