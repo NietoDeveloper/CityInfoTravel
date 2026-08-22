@@ -27,5 +27,4 @@ Se agrega un evento `click` a cada ció
 -   Obtiene el contenido correspondiente a la ciudad seleccionada utilizando la función `obtenerContenido` y el texto del enlace actual.
 -   Actualiza los elementos del DOM con la información de la ciudad seleccionada.
 
-### Función para obtener contenido de la ciudad
-
+### Función para obtener contenido de la 
