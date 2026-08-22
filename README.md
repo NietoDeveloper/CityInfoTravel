@@ -190,8 +190,7 @@ y Data Import
 
 The `barcelona`, `roma`, `paris`, and e main JavaScript code.
 mentById` to retriitle element (`<h1>`) where the selected city's title is displayed.
-- **`subTituloElemento`:** The subtitle element (`<h2>`) where the selected city's subtitle is displayed.
-- **`parrafoElemento`:** The paragraph element (`<p>`) where the selected city's description is displayed.
+- **`subTi
 - **`precioElemento`:** The element where the selected city's price is displayed.
 
 ### Click Event Handling
