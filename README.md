@@ -188,8 +188,7 @@ This project is licensed under the **MIT License**.
 
 y Data Import
 
-The `barcelona`, `roma`, `paris`, and e main JavaScript code.
-mentById` to retriitle element (`<h1>`) where the selected city's  price is displayed.
+d city's  price is displayed.
 
 ### Click Event Handling
 
