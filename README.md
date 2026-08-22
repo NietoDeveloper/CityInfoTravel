@@ -15,7 +15,7 @@ ando se hace clic en un enlace de ciudad.
 ### Importación de datos de las ciudadté disponible en el repositorio junto con el código JavaScript.
 
 
--   `subTituloElemento`: el elemento de subtítulo
+-   `subTituloElemento
 -   `parrafoElemento`: el ea ciudad seleccionada.io de la ciudad seleccionada.
 
 ### Agregar evento CLICK a los enlaces
