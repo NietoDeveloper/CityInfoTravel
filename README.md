@@ -16,7 +16,7 @@ ando se hace clic en un enlace de ciudad.
 
 
 -   `subTituloElemento
--   `parrafoElemento`: el ea ciudad seleccionada.io de la ciudad seleccionada.
+-   `parrafoElemento`: el ea ciudaseleccionada.
 
 ### Agregar evento CLICK a los enlaces
 
