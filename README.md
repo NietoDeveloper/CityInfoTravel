@@ -20,7 +20,7 @@ ando se hace clic en un enlace de ciudad.
 
 ### Agregar evento CLICK a los enlaces
 
-Se agrega un evento `click` a cada ción de devolución de llamada proporcionada. El código dentro de esta función realiza las siguientes acciones:
+Se agrega un evento `click` a cada ció
 
 -   Remueve la clase `active` de todos los enlaces utilizando otro bucle `forEach`.
 -   Agrega la clase `active` al enlace actual (`this`).
