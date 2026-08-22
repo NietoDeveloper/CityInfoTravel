@@ -1,18 +1,3 @@
-
-
-### Función para obtener contenido de la 
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=CITY%20INFO%20TRAVEL&fontSize=58&fontColor=FFD700&fontAlignY=42&desc=✈️%20Vanilla%20JS%20Travel%20Info%20App%20%C2%B7%20City%20Explorer&descAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
