@@ -4,12 +4,7 @@ Link para ver resultado: [VENTA VIAJES FINALIZADO](https://nietodeveloper.github
 
 Este es un tutorial que te guiará a través del proceso de creación de una aplicación de venta de viajes utilizando JavaScript. La aplicación mostrará información sobre diferentes ciudades turísticas y sus precios asocs.
 
-## Requisitos previos
-
--   Conocimientos básicos de HTML  escribir y ejecutar JavaScript.
-
-## Configuración inicial
-
+## Requisitos previo
 1.  Clona oarga l
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/CityInfoTravel>
