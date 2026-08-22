@@ -180,16 +180,9 @@ This project is licensed under the **MIT License**.
 
 
 
-  </a>
-
-  <a href="https://pages.github.com/">
-
-<p align="center">
 
 
-</p>
 
-</div>
 
 ---
 
