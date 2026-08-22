@@ -179,22 +179,6 @@ This project is licensed under the **MIT License**.
 
 
 
-
-
-
-
-
-
-
-y Data Import
-
-d city's  price is displayed.
-
-### Click Event Handling
-
-A `click` event is attached to each link via a `forEach` loop. When a link is clicked, the callback function:
-
-- Removes the `active` class from all links (via another `forEach` loop).
 - Adds the `active` class to the current link (`this`).
 - Retrieves the corresponding city content using the `obtenerContenido` function and the current link's text.
 - Updates the DOM elements with the selected city's information.
