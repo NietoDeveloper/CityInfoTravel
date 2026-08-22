@@ -13,8 +13,7 @@ Clone the repository:git clone <https://github.com/NietoDeveloper/CityInfoTravel
 ando se hace clic en un enlace de ciudad.
 
 ### Importación de datos de las ciudades
-
-Las variables `barcelona`, `roma`, `paris` y `londres` se importan desde el archivo `ciudades.js`, que contiene la información de cada ciudad. Asegúrate de que este archivo esté disponible en el repositorio junto con el código JavaScript.
+n de cada ciudad. Asegúrate de que este archivo esté disponible en el repositorio junto con el código JavaScript.
 
 ### Obtención de elementos del DOM
 
