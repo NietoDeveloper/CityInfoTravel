@@ -188,7 +188,7 @@ This project is licensed under the **MIT License**.
 
 y Data Import
 
-The `barcelona`, `roma`, `paris`, and `londres` variables are imported from the `ciudades.js` file, which contains the information for each city. This file must be available alongside the main JavaScript code.
+The `barcelona`, `roma`, `paris`, and e main JavaScript code.
 
 ### DOM Element Retrieval
 
