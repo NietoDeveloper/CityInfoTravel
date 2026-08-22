@@ -1,11 +1,4 @@
-# App Travel Info en JavaScript
 
-Link para ver resultado: [VENTA VIAJES FINALIZADO](https://nietodeveloper.github.io/CityInfoTravel/)
-
-Este es un tutorial que te guiará a o JavaScas y sus precios asocs.
-
-## Requisitos previo
-1.  Clona oarga l
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/CityInfoTravel>
 
