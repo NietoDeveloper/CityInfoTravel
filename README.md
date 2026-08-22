@@ -189,8 +189,7 @@ This project is licensed under the **MIT License**.
   <a href="https://pages.github.com/">
 
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
+  <a href="ense-MIT-yellow.svg?style=for-the-badge"/>
   </a>
 </p>
 
