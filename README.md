@@ -189,9 +189,7 @@ This project is licensed under the **MIT License**.
 ## 📋 Overview
 
 
-    ├── css/          # Stylesheets
-    ├── img/            # City images
-    └── js/               # JavaScript logic (app.js, ciudades.js)
+    ├── css/          # Stylesh(app.js, ciudades.js)
 ```
 
 ---
