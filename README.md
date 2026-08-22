@@ -177,9 +177,7 @@ This project is licensed under the **MIT License**.
 
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=CITY%20INFO%20TRAVEL&fontSize=58&fontColor=FFD700&fontAlignY=42&desc=✈️%20Vanilla%20JS%20Travel%20Info%20App%20%C2%B7%20City%20Explorer&descAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
+cAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%8C%86+No+Frameworks%2C+Pure+Vanilla+JS;%F0%9F%97%BA%EF%B8%8F+Barcelona+%C2%B7+Rome+%C2%B7+Paris+%C2%B7+London;%E2%9C%88%EF%B8%8F+Dynamic+City+Info+%26+Pricing;%F0%9F%8F%86+%231+GitHub+Committer+in+Colombia)](https://git.io/typing-svg)
 
