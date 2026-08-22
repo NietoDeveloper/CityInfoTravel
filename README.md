@@ -10,8 +10,7 @@ Este es un tutorial que te guiará a través del proceso de creación de una apl
 Clone the repository:git clone <https://github.com/NietoDeveloper/CityInfoTravel>
 
 ## Funcionamiento del código JavaScript
-
-El código JavaScript proporcionado se encarga de actualizar la información mostrada en la página web cuando se hace clic en un enlace de ciudad.
+ando se hace clic en un enlace de ciudad.
 
 ### Importación de datos de las ciudades
 
