@@ -16,8 +16,6 @@ ando se hace clic en un enlace de ciudad.
 
 ### Obtención de elementos del DOMs variables:
 
--   `enlaces`: una colección de todos los elementcla (`<a>`) en la página.
--   `tituloElemento`: el elemento de título (`<h1>`) donde se mostrará el título de la ciudad seleccionada.
 -   `subTituloElemento`: el elemento de subtítulo (`<h2>`) donde se mostrará el subtítulo de la ciudad seleccionada.
 -   `parrafoElemento`: el elemento de párrafo (`<p>`) donde se mostrará la descripción de la ciudad seleccionada.
 -   `precioElemento`: el elemento donde se mostrará el precio de la ciudad seleccionada.
