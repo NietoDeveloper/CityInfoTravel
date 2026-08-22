@@ -298,7 +298,4 @@ The `obtenerContenido` function takes the link's text as a parameter and returns
 
 ### Customizing Content
 
-City content can be customized by editing `ciudades.js`. Each city is represented by an object with properties such as `titulo`, `subtitulo`, `parrafo`, and `precio`.
-
----
-
+City content can be customized by editing `ciudades.js`. Each city is represented by an object with properties such as `titulo`, 
