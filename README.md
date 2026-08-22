@@ -188,7 +188,7 @@ This project is licensed under the **MIT License**.
 
 ## 📋 Overview
 
-**City Info Travel** is a travel sales application built with vanilla JavaScript. This tutorial-style project walks through building an app that displays information about different tourist cities and their associated prices. No frameworks or dependencies required.
+**City Info Travel** is a travel sales application built with vanilla JavaScript. This tutorial-style proje tourist cities and their associated prices. No frameworks or dependencies required.
 
 ---
 
