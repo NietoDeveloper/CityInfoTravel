@@ -186,10 +186,7 @@ This project is licensed under the **MIT License**.
 
 
     B -->|Toggle 'active' Class| C[Update Nav State]
-    B -->|Look Up City| D[obtenerContenido]
-    D -->|Reads| E[ciudades.js\nBarcelona / Rome / Paris / London]
-    E -->|Data| F[Update DOM]
-    F --> G([📄 Title · Subtitle · Description · Price])
+    B -->|Look Up Ce · Description · Price])
 
     style A fill:#FFD700,color:#000,stroke:#FFD700
     style D fill:#F7DF1E,color:#000,stroke:#F7DF1E
