@@ -184,12 +184,7 @@ This project is licensed under the **MIT License**.
 
 
 
----
-iudades.js)
-```
 
----
-nk| B[Click Event Listener]
     B -->|Toggle 'active' Class| C[Update Nav State]
     B -->|Look Up City| D[obtenerContenido]
     D -->|Reads| E[ciudades.js\nBarcelona / Rome / Paris / London]
