@@ -29,5 +29,3 @@ Se agrega un evento `click` a cada ció
 
 ### Función para obtener contenido de la ciudad
 
-La función `obtenerContenido` toma
-Puedes person
