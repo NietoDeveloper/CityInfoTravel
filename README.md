@@ -15,8 +15,7 @@ ando se hace clic en un enlace de ciudad.
 ### Importación de datos de las ciudadté disponible en el repositorio junto con el código JavaScript.
 
 ### Obtención de elementos del DOM
-
-El código utiliza el método `document.getElementById` para obtener los elementos del DOM necesarios para actualizar la información de la página. Estos elementos se asignan a las siguientes variables:
+ la página. Estos elementos se asignan a las siguientes variables:
 
 -   `enlaces`: una colección de todos los elementos de ancla (`<a>`) en la página.
 -   `tituloElemento`: el elemento de título (`<h1>`) donde se mostrará el título de la ciudad seleccionada.
