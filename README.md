@@ -189,12 +189,6 @@ This project is licensed under the **MIT License**.
 ## 📋 Overview
 
 
-
-## 🗂️ Project Structure
-
-```text
-CityInfoTravel/
-└── assets/
     ├── css/          # Stylesheets
     ├── img/            # City images
     └── js/               # JavaScript logic (app.js, ciudades.js)
