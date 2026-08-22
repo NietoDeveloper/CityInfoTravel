@@ -302,6 +302,3 @@ City content can be customized by editing `ciudades.js`. Each city is represente
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
