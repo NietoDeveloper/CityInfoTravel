@@ -185,14 +185,6 @@ This project is licensed under the **MIT License**.
 
 
 
-    B -->|Toggle 'active' Class| C[Update Nav State]
-    B -->|Look Up Ce · Description · Price])
-
-```
-
----
-
-## 🛠️ Technologies Used
 
 <div align="center">
 
