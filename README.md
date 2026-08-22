@@ -189,12 +189,7 @@ iudades.js)
 ```
 
 ---
-
-## 🔄 City Selection Flow
-
-```mermaid
-flowchart LR
-    A([👤 Visitor]) -->|Clicks City Link| B[Click Event Listener]
+nk| B[Click Event Listener]
     B -->|Toggle 'active' Class| C[Update Nav State]
     B -->|Look Up City| D[obtenerContenido]
     D -->|Reads| E[ciudades.js\nBarcelona / Rome / Paris / London]
