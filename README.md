@@ -14,8 +14,7 @@ ando se hace clic en un enlace de ciudad.
 
 ### Importación de datos de las ciudadté disponible en el repositorio junto con el código JavaScript.
 
-### Obtención de elementos del DOM
- la página. Estos elementos se asignan a las siguientes variables:
+### Obtención de elementos del DOMs variables:
 
 -   `enlaces`: una colección de todos los elementcla (`<a>`) en la página.
 -   `tituloElemento`: el elemento de título (`<h1>`) donde se mostrará el título de la ciudad seleccionada.
