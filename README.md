@@ -185,11 +185,7 @@ This project is licensed under the **MIT License**.
 
 
 ---
-
-## 📋 Overview
-
-
-    ├── css/          # Stylesh(app.js, ciudades.js)
+iudades.js)
 ```
 
 ---
