@@ -189,10 +189,7 @@ This project is licensed under the **MIT License**.
 <div align="center">
 
 ---
-
-## ✨ How the JavaScript Works
-
-The provided JavaScript code updates the information displayed on the page when a city link is clicked.
+cked.
 
 ### City Data Import
 
