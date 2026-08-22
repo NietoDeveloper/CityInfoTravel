@@ -305,9 +305,3 @@ City content can be customized by editing `ciudades.js`. Each city is represente
 ## 🚀 Getting Started
 
 ### Prerequisites
-
-- Basic HTML knowledge.
-- A development environment to write and run JavaScript.
-
-
-</div>
