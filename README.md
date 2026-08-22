@@ -17,7 +17,7 @@ ando se hace clic en un enlace de ciudad.
 ### Obtención de elementos del DOMs variables:
 
 -   `subTituloElemento`: el elemento de subtítulo (`<h2>`) donde se mostrará el subtítulo de la ciudad seleccionada.
--   `parrafoElemento`: el elemento de párrafo (`<p>`) donde se mostrará la descripción de la ciudad seleccionada.
+-   `parrafoElemento`: el ea ciudad seleccionada.
 -   `precioElemento`: el elemento donde se mostrará el precio de la ciudad seleccionada.
 
 ### Agregar evento CLICK a los enlaces
