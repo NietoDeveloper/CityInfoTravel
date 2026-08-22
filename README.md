@@ -309,28 +309,5 @@ City content can be customized by editing `ciudades.js`. Each city is represente
 - Basic HTML knowledge.
 - A development environment to write and run JavaScript.
 
-### Setup
-
-**Step 1 — Clone the repository**
-
-```bash
-git clone https://github.com/NietoDeveloper/CityInfoTravel
-```
-
-**Step 2 — Open `index.html`** in a web browser.
-
----
-
-## 👨‍💻 Author
-
-**Manuel Nieto (NietoDeveloper)**
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-
 
 </div>
