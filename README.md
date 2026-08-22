@@ -177,11 +177,7 @@ This project is licensed under the **MIT License**.
 
 
 
-cAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=760&lines=%F0%9F%8C%86+No+Frameworks%2C+Pure+Vanilla+JS;%F0%9F%97%BA%EF%B8%8F+Barcelona+%C2%B7+Rome+%C2%B7+Paris+%C2%B7+London;%E2%9C%88%EF%B8%8F+Dynamic+City+Info+%26+Pricing;%F0%9F%8F%86+%231+GitHub+Committer+in+Colombia)](https://git.io/typing-svg)
-
-<br/>
 
 <p align="center">
   <a href="https://github.com/NietoDeveloper">
