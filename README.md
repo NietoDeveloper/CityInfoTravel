@@ -6,8 +6,7 @@ Este es un tutorial que te guiará a través del proceso de creación de una apl
 
 ## Requisitos previos
 
--   Conocimientos básicos de HTML y CSS.
--   Un entorno de desarrollo para escribir y ejecutar JavaScript.
+-   Conocimientos básicos de HTML  Un entorno de desarrollo para escribir y ejecutar JavaScript.
 
 ## Configuración inicial
 
