@@ -29,6 +29,6 @@ Se agrega un evento `click` a cada ció
 
 ### Función para obtener contenido de la ciudad
 
-La función `obtenerContenido` toma el texto del enlace rámetro y devuelve el contenido correspondiente de la ciudad desde el archivo `ciudades.js`. Utiliza un objeto `contenido` parpeaceel c
+La función `obtenerContenido` toma el texto del enlace rámetro y devuelve el contenido correspondiente de la ciudad desde el archivo `ciudades.js`. Utiliza un objeto `contenido` par c
 Puedes personalizar el contenido d.
 
