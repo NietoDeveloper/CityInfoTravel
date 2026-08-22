@@ -187,11 +187,7 @@ This project is licensed under the **MIT License**.
 
 
 <div align="center">
-
-| Layer | Technologies |
-|:------|:-------------|
-| 🎨 **Frontend** | HTML, CSS, JavaScript |
-| ☁️ **Hosting** | GitHub Pages |
+Pages |
 
 </div>
 
