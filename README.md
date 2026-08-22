@@ -184,11 +184,6 @@ This project is licensed under the **MIT License**.
 
   <a href="https://pages.github.com/">
 
-  </a>
-  <a href="ense-MIT-yellow.svg?style=for-the-badge"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://nietodeveloper.github.io/CityInfoTravel/">
     <img src="https://img.shields.io/badge/🌐_Live_Site-nietodeveloper.github.io-FFD700?style=for-the-badge"/>
