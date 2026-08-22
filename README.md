@@ -29,7 +29,6 @@ Se agrega un evento `click` a cada ció
 
 ### Función para obtener contenido de la ciudad
 
-La función `obtenerContenido` toma el texto del enlace como parámetro y devuelve el contenido correspondiente de la ciudad desde el archivo `ciudades.js`. Utiliza un objeto `contenido` parpeace con el conteni
-
+La función `obtenerContenido` toma el texto del enlace como parámetro y devuelve el contenido correspondiente de la ciudad desde el archivo `ciudades.js`. Utiliza un objeto `contenido` parpeace con el c
 Puedes personalizar el contenido d.
 
