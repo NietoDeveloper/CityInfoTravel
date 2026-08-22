@@ -1,8 +1,4 @@
-
-
-Clone the repository:git clone <https://github.com/NietoDeveloper/CityInfoTravel>
-
-## Funcionamiento del código JavaScript
+del código JavaScript
 ando se hace clic en un enlace de ciudad.
 
 ### Importación de datos de las ciudadté disponible en el repositorio junto con el código JavaScript.
