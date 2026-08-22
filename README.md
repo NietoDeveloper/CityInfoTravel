@@ -188,9 +188,6 @@ This project is licensed under the **MIT License**.
     B -->|Toggle 'active' Class| C[Update Nav State]
     B -->|Look Up Ce · Description · Price])
 
-    style A fill:#FFD700,color:#000,stroke:#FFD700
-    style D fill:#F7DF1E,color:#000,stroke:#F7DF1E
-    style G fill:#000,color:#FFD700,stroke:#FFD700
 ```
 
 ---
