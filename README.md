@@ -10,7 +10,7 @@ Este es un tutorial que te guiará a través del proceso de creación de una apl
 
 ## Configuración inicial
 
-1.  Clona o descarga los archivos HTML y CSS necesarios para este proyecto desde el repositorio en GitHub.
+1.  Clona o descarga l
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/CityInfoTravel>
 
