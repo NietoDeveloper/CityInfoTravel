@@ -10,7 +10,7 @@ Este es un tutorial que te guiará a través del proceso de creación de una apl
 
 ## Configuración inicial
 
-1.  Clona o descarga l
+1.  Clona oarga l
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/CityInfoTravel>
 
