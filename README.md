@@ -176,17 +176,4 @@ This project is licensed under the **MIT License**.
 
 
 
-
-
-
-- Adds the `active` class to the current link (`this`).
-- Retrieves the corresponding city content using the `obtenerContenido` function and the current link's text.
-- Updates the DOM elements with the selected city's information.
-
-### City Content Lookup Function
-
-The `obtenerContenido` function takes the link's text as a parameter and returns the corresponding city content from `ciudades.js`, using a `contenido` object to map link text to city data.
-
-### Customizing Content
-
-City content can be customized by editing `ciudades.js`. Each city is represented by an object with properties such as `titulo`, 
+an object with properties such as `titulo`, 
