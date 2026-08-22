@@ -189,10 +189,7 @@ This project is licensed under the **MIT License**.
 y Data Import
 
 The `barcelona`, `roma`, `paris`, and e main JavaScript code.
-mentById` to retrieve the DOM elements needed to update the page content:
-
-- **`enlaces`:** A collection of all anchor (`<a>`) elements on the page.
-- **`tituloElemento`:** The title element (`<h1>`) where the selected city's title is displayed.
+mentById` to retriitle element (`<h1>`) where the selected city's title is displayed.
 - **`subTituloElemento`:** The subtitle element (`<h2>`) where the selected city's subtitle is displayed.
 - **`parrafoElemento`:** The paragraph element (`<p>`) where the selected city's description is displayed.
 - **`precioElemento`:** The element where the selected city's price is displayed.
